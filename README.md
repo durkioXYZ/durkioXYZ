@@ -1,7 +1,9 @@
 14, LUA/NODE.JS Programmer.
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/827204529161633813)](https://discord.com/users/827204529161633813)
+<a href="https://discord.com/users/255334252491571200">
+  <img src="https://lanyard.cnrad.dev/api/827204529161633813" align="right" />
+</a>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wspitssxui&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/chickXYZ/github-readme-stats)
 
