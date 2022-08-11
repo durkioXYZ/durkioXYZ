@@ -1,9 +1,7 @@
 14, LUA/NODE.JS Programmer.
 
 ---
-<a href="https://discord.com/users/827204529161633813">
-  <img src="https://lanyard-profile-readme.vercel.app/api/827204529161633813?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/827204529161633813)](https://discord.com/users/827204529161633813)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wspitssxui&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/chickXYZ/github-readme-stats)
 
